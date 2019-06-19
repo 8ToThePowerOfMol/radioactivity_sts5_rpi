@@ -1,0 +1,4 @@
+ test: 184.0 pulse/min 3.06667 pulse/sec (1.27512 uSv/h) with total 184 pulses in 1.0 mins.
+ test: 6.0 pulse/min 0.1 pulse/sec (0.04752 uSv/h) with total 6 pulses in 1.0 mins.
+ test: 146.0 pulse/min 2.43333 pulse/sec (1.15632 uSv/h) with total 438 pulses in 3.0 mins.
+ test: 346.0 pulse/min 5.76667 pulse/sec (2.51196 uSv/h) with total 346 pulses in 1.0 mins.
